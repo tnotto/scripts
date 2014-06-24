@@ -1,0 +1,5 @@
+*.pyc
+*.csv
+*.pickle
+*.swp
+*.DS_STORE
