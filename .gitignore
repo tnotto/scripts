@@ -2,4 +2,5 @@
 *.csv
 *.pickle
 *.swp
+*.pdf
 *.DS_STORE
